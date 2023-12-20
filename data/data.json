@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle pressure when help in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, through some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
+  },
+  {
+    "id": 1,
+    "productName": "Juicy Oranges",
+    "image": "🍊",
+    "from": "USA",
+    "nutrients": "Vitamin C",
+    "quantity": "6 🍊",
+    "price": "4.20",
+    "organic": false,
+    "description": "Oranges are known for their refreshing taste and high vitamin C content. Juicy and sweet, they are perfect for fresh consumption or juicing. Oranges are commonly used to make orange juice, added to salads, or enjoyed as a healthy snack."
+  },
+  {
+    "id": 2,
+    "productName": "Sweet Strawberries",
+    "image": "🍓",
+    "from": "Mexico",
+    "nutrients": "Vitamin C, Folate, Potassium",
+    "quantity": "20 🍓",
+    "price": "3.75",
+    "organic": true,
+    "description": "Strawberries are deliciously sweet and packed with nutrients. They are versatile and can be eaten fresh, added to desserts, or used in smoothies. Their vibrant red color and juicy texture make them a favorite in many dishes."
+  },
+  {
+    "id": 3,
+    "productName": "Ripe Pineapples",
+    "image": "🍍",
+    "from": "Costa Rica",
+    "nutrients": "Vitamin C, Manganese",
+    "quantity": "5 🍍",
+    "price": "5.80",
+    "organic": false,
+    "description": "Pineapples are tropical fruits known for their sweet and tangy flavor. They are excellent when eaten fresh, grilled, or added to fruit salads. Pineapples contain bromelain, an enzyme believed to have various health benefits."
+  },
+  {
+    "id": 4,
+    "productName": "Ripe Bananas",
+    "image": "🍌",
+    "from": "Ecuador",
+    "nutrients": "Vitamin B6, Vitamin C, Potassium",
+    "quantity": "10 🍌",
+    "price": "2.90",
+    "organic": true,
+    "description": "Bananas are creamy and slightly sweet fruits that provide a quick energy boost. They're versatile and can be eaten on their own, added to smoothies, or used in baking. Bananas are a good source of potassium and other essential nutrients."
+  }
+]
